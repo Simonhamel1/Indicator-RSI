@@ -5,8 +5,11 @@ Cet indicateur de trading utilise le Relative Strength Index (RSI) pour aider le
 
 # Fonctionnalités
 •	Calcul du RSI sur une période définie.
+
 •	Affichage des niveaux de surachat et de survente.
+
 •	Génération de signaux d'achat et de vente basés sur les niveaux du RSI.
+
 •	Interface utilisateur interactive pour visualiser les signaux sur les graphiques.
 
 # Installation
