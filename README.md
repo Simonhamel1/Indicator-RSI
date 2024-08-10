@@ -32,8 +32,8 @@ Les contributions sont les bienvenues ! Pour contribuer :
 4.	Poussez la branche (git push origin feature/nom-de-la-fonctionnalité).
 5.	Ouvrez une Pull Request.
    
-# Auteurs
-•	Simon Hamelin - Développeur Principal 
+# Auteur
+•	Simon Hamelin
 
 # Contact
 Pour toute question ou problème, veuillez ouvrir une issue sur GitHub ou me contacter directement à l'adresse suivante : simon.hamelin11@gmail.com
