@@ -1,5 +1,5 @@
-Indicateur de Trading RSI
-Description
+# Indicateur de Trading RSI
+# Description
 Cet indicateur de trading utilise le Relative Strength Index (RSI) pour aider les traders à identifier les conditions de surachat et de survente dans les marchés financiers. Le RSI est un oscillateur de momentum qui mesure la vitesse et le changement des mouvements de prix.
 
 Fonctionnalités
