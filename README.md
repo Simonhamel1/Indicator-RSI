@@ -36,5 +36,5 @@ Les contributions sont les bienvenues ! Pour contribuer :
 •	Simon Hamelin - Développeur Principal 
 
 # Contact
-Pour toute question ou problème, veuillez ouvrir une issue sur GitHub ou me contacter directement à l'adresse suivante : simon.hamelin11gmail.com
+Pour toute question ou problème, veuillez ouvrir une issue sur GitHub ou me contacter directement à l'adresse suivante : simon.hamelin11@gmail.com
 
